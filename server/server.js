@@ -21,7 +21,9 @@ const allowedOrigins = [
   'https://mern-web-based-automated-parking-re.vercel.app',
   'https://mern-web-based-automated-parking-reservation-and-dyg9xcucz.vercel.app',
   'https://mern-web-based-automated-parking-re-eight.vercel.app',
-  'https://mern-web-based-automated-parking-and-jyx2fi8in.vercel.app'
+  'https://mern-web-based-automated-parking-and-jyx2fi8in.vercel.app',
+  'https://parking-super-admin.vercel.app',
+  'https://parking-super-admin-89agca0ri-mohamed-aaqib-s-projects.vercel.app'
 ];
 
 const corsOptions = {
